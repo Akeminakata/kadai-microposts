@@ -8,7 +8,5 @@
     </div>
 </div>
 {{-- フォロー／アンフォローボタン --}}
-@include('user_follow.follow_button')s
+@include('user_follow.follow_button')
 
-{{--お気に入り／お気に入りから外すボタン--}}
-@include('user_favorite.favorite_button')
